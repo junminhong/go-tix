@@ -1,0 +1,7 @@
+.env
+*.pem
+*.DS_Store
+.idea
+key.pem
+pubkey.pem
+*.pb.go
